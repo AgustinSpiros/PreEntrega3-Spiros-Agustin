@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@700&family=Poppins&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@700&family=Poppins&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Poppins&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@300&family=Poppins&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@700&family=Poppins&family=Roboto&display=swap");
+
+body{
+background-color: black;
+}
+
+.imgProductos {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 1rem;
+    background-color: antiquewhite;
+
+}
+
+.colorBoton {
+    color: #fafafa;
+    background-color: #edb026;
+}
+
+.colorBoton:hover {
+    
+    background-color: #212529;
+    color: #fafafa;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: px;
+    font-size: 45px;
+    color: #edb026;
+
+}
+
+h2 {
+    text-align: center;
+    font-weight: 800;
+    word-spacing: px;
+    font-size: 60px;
+    color: #edb026;
+}
+
+h3{
+    color: whitesmoke;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.carrito{
+    text-align: start;
+}
